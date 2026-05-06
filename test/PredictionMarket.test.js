@@ -25,5 +25,7 @@ describe("PredictionMarket", function () {
 
     expect(predictions.length).to.equal(1);
   });
+  git add .
+git commit -m "add smart contract tests"
 
 });
