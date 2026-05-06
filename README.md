@@ -23,4 +23,4 @@ Simple onchain ETH price prediction market built on Base.
 ## Deploy
 
 ```bash
-npx hardhat run scripts/deploy.js --network baseSepolia
+npx hardhat run scripts/deploy.js --network base
